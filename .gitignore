@@ -1,0 +1,11 @@
+cleaner.log
+cleaner.state.json
+*.bak-*
+*.tmp
+*.temp
+*.log
+
+# Local PowerShell/editor noise
+*.ps1xml
+.vscode/
+.idea/

@@ -9,3 +9,10 @@ cleaner.state.json
 *.ps1xml
 .vscode/
 .idea/
+
+# Generated build output and duplicate binaries.
+build/
+MemoryCleanerTaskbarHost.exe
+WindhawkMod/*.dll
+内存释放任务栏工具.exe
+内存释放任务栏工具.exe.config
